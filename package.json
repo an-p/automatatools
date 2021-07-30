@@ -1,5 +1,6 @@
 {
   "name": "automatatools",
+  "description": "Tools for finite automata and theoretical computer science",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
